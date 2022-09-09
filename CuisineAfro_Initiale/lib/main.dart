@@ -15,13 +15,13 @@ class CuisineAfro extends StatelessWidget {
     // 3
     return MaterialApp(
       // TODO: Add theme
-      title: 'Fooderlich',
+      title: 'CuisineAfro',
       // 4
       home: Scaffold(
         // TODO: Style the title
-        appBar: AppBar(title: const Text('Fooderlich')),
+        appBar: AppBar(title: const Text('CuisineAfro')),
         // TODO: Style the body text
-        body: const Center(child: Text('Let\'s get cooking 👩‍🍳')),
+        body: const Center(child: Text('Michui De porc 👩‍🍳')),
       ),
     );
   }
